@@ -1,4 +1,4 @@
-# 🦇 About Me:
+# ⚡ About Me:
 👨‍🎓MSc Computer Engineering @ Unina<br>CISCO Academy Project Work with EAV<br>NapulETH Hackathon 2025 Winner of Avalanche, BuidlGuidl, Cyberscope and grow3.ai bounties <br>Currently working @ Breadchain Cooperative<br>
 
 
