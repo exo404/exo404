@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%231877F2.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/e.x.o.404/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-petillo/) [![Discord](https://img.shields.io/badge/-Discord-FE7A16?logo=discord&logoColor=white)](https://stackoverflow.com/users/19007187/francesco?tab=profile) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xduel0) 
+[![Instagram](https://img.shields.io/badge/Instagram-%231877F2.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/e.x.o.404/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-petillo/) [![Discord](https://img.shields.io/badge/-exo404-FE7A16?logo=discord&logoColor=white)] [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/exo_not_found) 
 
 # 💻 Tech Stack:
 
