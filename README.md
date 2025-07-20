@@ -1,6 +1,6 @@
 # 💫 About Me:
-👨‍🎓MSc Computer Engineering @ Unina<br> CISCO Academy Project Work with EAV<br>NapulETH Hackathon 2025 Winner of Avalanche, BuidlGuidl, Cyberscope and grow3.ai bounties <br>🛡️CyberChallenge.IT 2024 Instructor<br>🛡️CyberChallenge.IT 2025 Instructor <br>
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/duel0.png)
+👨‍🎓MSc Computer Engineering @ Unina<br> CISCO Academy Project Work with EAV<br>NapulETH Hackathon 2025 Winner of Avalanche, BuidlGuidl, Cyberscope and grow3.ai bounties <br>Currently working @ Breadchain Cooperative<br>
+
 
 
 
