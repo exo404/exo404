@@ -1,8 +1,8 @@
 # ⚡ About Me:
-- 👨‍🎓MSc Computer Engineering @ Unina
-- CISCO Academy Project Work with EAV
-- NapulETH Hackathon 2025 Winner of Avalanche, BuidlGuidl, Cyberscope and grow3.ai bounties with 3-Voting
-- Currently working @ Bread Cooperative
+- 👨‍🎓 MSc Computer Engineering @ Unina
+- 💡 CISCO Academy Project Work with EAV
+- 🏆 NapulETH Hackathon 2025 Winner of Avalanche, BuidlGuidl, Cyberscope and grow3.ai bounties with 3-Voting
+- 💻 Currently working @ Bread Cooperative
 
 
 
